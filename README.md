@@ -15,7 +15,7 @@
 
 **1)** Fire up your favourite console & clone this repo somewhere:
 
-__`⤳ git clone https://github.com/vahiwe/Page_Summarizer_API.git`__
+__`⤳ git clone https://github.com/Leonuch/Page_Summary_API.git`__
 
 **2)** Enter this directory:
 
