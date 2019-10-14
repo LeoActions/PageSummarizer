@@ -39,7 +39,6 @@ __`⤳ http://127.0.0.1:5000/`__
 
 __*Happy Coding!*__
 
-Visit [here](https://pagesumm.herokuapp.com/) to summarize your page.
 
 <div align="center">
 
